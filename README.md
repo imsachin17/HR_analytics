@@ -71,6 +71,3 @@ The included `HR_Analytics.csv` file ensures the dashboard loads instantly witho
 * **GitHub:** [https://github.com/imsachin17](https://github.com/imsachin17)
 * **LinkedIn:** [https://www.linkedin.com/in/imsachin17/](https://www.linkedin.com/in/imsachin17/)
 
----
-
-If you want the **same format for other dashboards** (Finance, Sales, Marketing, etc.), just tell me!
